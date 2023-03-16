@@ -1,0 +1,61 @@
+@import "reset.css";
+
+/* body div h1{
+    margin: 0;
+    padding: 10px;
+    font-size:50px;
+} */
+
+/* nav{ flex:30%;}
+.header{}
+h1{
+    margin: 0;
+    padding:20px 0px 0px 20px;
+    font-size: 30;
+    font-weight: 900;
+    text-align: center;
+}
+
+.nav{
+    padding-top: 30;
+    width:30%;
+    font-size:18px;
+    font-weight:700;
+    height: 1300px;
+    float: left;
+
+    
+}
+.nav a{text-decoration:none;}
+.content{
+    padding: 30px 0px 0px 30px;
+    
+    width:70%;
+    height: 1300px;
+    float: right;
+} */
+
+
+header{
+    font-weight: bold;
+    height:100px;
+   
+    background-color:pink;
+    font-size: 30;
+    text-align: center;
+}
+header h1{padding-top: 30px;}
+
+section{padding-left:70px;}
+
+nav ol{
+   
+   padding-top:30px;
+   padding-left:50px;
+}
+nav a{
+    text-decoration: none;
+}
+.content{
+    display:flex;}
+
